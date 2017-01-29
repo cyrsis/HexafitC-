@@ -4,3 +4,6 @@ c:\users\victor888\documents\visual studio 2015\Projects\ConsoleApplication5\Con
 c:\users\victor888\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
 c:\users\victor888\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
 c:\users\victor888\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+G:\HexafitC-\HexaFitConsole\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+G:\HexafitC-\HexaFitConsole\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+G:\HexafitC-\HexaFitConsole\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
